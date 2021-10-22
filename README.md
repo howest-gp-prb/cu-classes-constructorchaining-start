@@ -13,6 +13,8 @@ Deze klasse beschikt over volgende publieke velden (of eigenschappen) :
 De klasse voorziet 1 methode met de naam **PercentageOfEarth**  
   * de methode retourneert een double waarde  
   * de methode rekent uit hoeveel percent de **RegionSurface** uitmaakt van de totale oppervlakte van de aarde (**EarthSurface**)    
+
+> oppervlakte van een bol : 4 * Pi * straal² 
   
 De klasse heeft 2 constructors :   
   * constroctor zonder argumenten    

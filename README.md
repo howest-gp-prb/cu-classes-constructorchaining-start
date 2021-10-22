@@ -6,7 +6,7 @@ Voeg aan deze class library 1 klasse toe met de naam **EarthCalculations**
 Deze klasse beschikt over volgende publieke velden (of eigenschappen) :  
   * int **earthRadius** (in geval van eigenschappen : read only) = de straal van de aarde  
     Aan dit veld (of eigenschap) kennen we de standaardwaarde 6371 toe.
-  * int **earthCircumference** (in geval van eigenschappen : read only) = de omtrek van de aarde    
+  * double **earthCircumference** (in geval van eigenschappen : read only) = de omtrek van de aarde    
   * double **earthSurface** (in geval van eigenschappen : read only)  = de oppervlakte van de aarde  
   * double **regionSurface** = de oppervlakte van een gegeven regio  
   

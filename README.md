@@ -4,11 +4,11 @@ In de starterscode zit reeds 1 WPF project : Prb.ConstructorChaining.Wpf
 Voeg een class library toe aan de solution : Prb.ConstructorChaining.Core    
 Voeg aan deze class library 1 klasse toe met de naam **EarthCalculations**   
 Deze klasse beschikt over volgende publieke velden (of eigenschappen) :  
-  * int **EarthRadius** (in geval van eigenschappen : read only) = de straal van de aarde  
+  * int **earthRadius** (in geval van eigenschappen : read only) = de straal van de aarde  
     Aan dit veld (of eigenschap) kennen we de standaardwaarde 6371 toe.
-  * int **EarthCircumference** (in geval van eigenschappen : read only) = de omtrek van de aarde    
-  * double **EarthSurface** (in geval van eigenschappen : read only)  = de oppervlakte van de aarde  
-  * double **RegionSurface** = de oppervlakte van een gegeven regio  
+  * int **earthCircumference** (in geval van eigenschappen : read only) = de omtrek van de aarde    
+  * double **earthSurface** (in geval van eigenschappen : read only)  = de oppervlakte van de aarde  
+  * double **regionSurface** = de oppervlakte van een gegeven regio  
   
 De klasse voorziet 1 methode met de naam **PercentageOfEarth**  
   * de methode retourneert een double waarde  
